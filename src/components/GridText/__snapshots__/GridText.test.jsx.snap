@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GridText /> should render 1`] = `
+<div>
+  <div
+    class="sc-jSUZER kdiEaK"
+  >
+    <div
+      class="sc-gKPRtg fxGKZy"
+    >
+      <div
+        class="sc-dkrFOg hJNvJK"
+      >
+        <div>
+          <h2
+            class="sc-bcXHqe icqeWr"
+          >
+            title
+          </h2>
+        </div>
+        <p
+          class="sc-gswNZR ddvriM"
+        >
+          description
+        </p>
+        <div
+          class="sc-hLBbgP lfBapZ"
+        >
+          <div
+            class="sc-eDvSVe hrYwgi"
+          >
+            <div>
+              <h3
+                class="sc-bcXHqe khFHLM"
+              >
+                grid 1
+              </h3>
+            </div>
+            <p
+              class="sc-gswNZR ddvriM"
+            >
+              grid description
+            </p>
+          </div>
+          <div
+            class="sc-eDvSVe hrYwgi"
+          >
+            <div>
+              <h3
+                class="sc-bcXHqe khFHLM"
+              >
+                grid 2
+              </h3>
+            </div>
+            <p
+              class="sc-gswNZR ddvriM"
+            >
+              grid description
+            </p>
+          </div>
+          <div
+            class="sc-eDvSVe hrYwgi"
+          >
+            <div>
+              <h3
+                class="sc-bcXHqe khFHLM"
+              >
+                grid 3
+              </h3>
+            </div>
+            <p
+              class="sc-gswNZR ddvriM"
+            >
+              grid description
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

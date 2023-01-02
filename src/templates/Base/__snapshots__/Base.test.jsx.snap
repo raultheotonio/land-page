@@ -1,0 +1,166 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Base /> should render 1`] = `
+<div>
+  <button
+    aria-label="Open/Close menu"
+    class="sc-gKPRtg gpKKXb"
+  >
+    <svg
+      aria-hidden="true"
+      aria-label="Open menu"
+      class="StyledIconBase-sc-ea9ulj-0 dXOYdB"
+      fill="currentColor"
+      focusable="false"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
+      />
+    </svg>
+  </button>
+  <div
+    class="sc-eDvSVe dvWtxw"
+  >
+    <div
+      class="sc-gswNZR DuAtq"
+    >
+      <div
+        class="sc-jSUZER fOjZxU"
+      >
+        <div>
+          <h1
+            class="sc-hLBbgP jtiATY"
+          >
+            <a
+              class="sc-iBYQkv nTOzH"
+              href="#"
+            >
+              Logo
+            </a>
+          </h1>
+        </div>
+        <nav
+          aria-label="Main menu"
+          class="sc-ftTHYK ixHmdh"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="sc-bcXHqe imEFwB"
+  >
+    <div
+      class="sc-ksBlkl zTeMC"
+    >
+      <div
+        class="sc-gswNZR DuAtq"
+      >
+        <div
+          class="sc-csuSiG jWrfsW"
+        >
+          <div>
+            <h2
+              class="sc-hLBbgP cEbgCx"
+            >
+              title
+            </h2>
+          </div>
+          <p
+            class="sc-jrcTuL QaQrX"
+          >
+            description
+          </p>
+          <div
+            class="sc-eDWCr jLoRbN"
+          >
+            <div
+              class="sc-bqWxrE iNPcZG"
+            >
+              <div>
+                <h3
+                  class="sc-hLBbgP bCIAxa"
+                >
+                  grid 1
+                </h3>
+              </div>
+              <p
+                class="sc-jrcTuL QaQrX"
+              >
+                grid description
+              </p>
+            </div>
+            <div
+              class="sc-bqWxrE iNPcZG"
+            >
+              <div>
+                <h3
+                  class="sc-hLBbgP bCIAxa"
+                >
+                  grid 2
+                </h3>
+              </div>
+              <p
+                class="sc-jrcTuL QaQrX"
+              >
+                grid description
+              </p>
+            </div>
+            <div
+              class="sc-bqWxrE iNPcZG"
+            >
+              <div>
+                <h3
+                  class="sc-hLBbgP bCIAxa"
+                >
+                  grid 3
+                </h3>
+              </div>
+              <p
+                class="sc-jrcTuL QaQrX"
+              >
+                grid description
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-kDvujY gRbYms"
+    >
+      <div
+        class="sc-gswNZR DuAtq"
+      >
+        <p
+          class="sc-jrcTuL QaQrX"
+        >
+          <p>
+            Teste de footer
+          </p>
+        </p>
+      </div>
+    </div>
+  </div>
+  <a
+    aria-label="Go to top"
+    class="sc-ipEyDJ fmeuKO"
+    href="#"
+    title="go to top"
+  >
+    <svg
+      aria-hidden="true"
+      class="StyledIconBase-sc-ea9ulj-0 dXOYdB"
+      fill="currentColor"
+      focusable="false"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M7.41 15.41 12 10.83l4.59 4.58L18 14l-6-6-6 6 1.41 1.41z"
+      />
+    </svg>
+  </a>
+</div>
+`;

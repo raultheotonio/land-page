@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MenuLink /> should render snapShot 1`] = `
+<a
+  class="sc-bcXHqe eNFlyR"
+  href="http://localhost"
+  target="_blank"
+>
+  children
+</a>
+`;

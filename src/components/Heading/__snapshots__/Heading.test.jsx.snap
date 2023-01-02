@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Heading/> should render a snapshot 1`] = `
+.c0 {
+  color: #FFFFFF;
+  font-size: 1.6rem;
+  text-transform: none;
+}
+
+<div>
+  <div>
+    <h1
+      class="c0"
+    >
+      texto
+    </h1>
+  </div>
+</div>
+`;

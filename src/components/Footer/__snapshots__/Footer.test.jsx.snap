@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> should render 1`] = `
+<h1>
+  Olá
+</h1>
+`;
+
+exports[`<Footer /> should render a snapShot 1`] = `
+<div>
+  <div
+    class="sc-hLBbgP bQheOD"
+  >
+    <div
+      class="sc-gswNZR DuAtq"
+    >
+      <p
+        class="sc-bcXHqe cfnKmM"
+      >
+        <h1>
+          Olá
+        </h1>
+      </p>
+    </div>
+  </div>
+</div>
+`;

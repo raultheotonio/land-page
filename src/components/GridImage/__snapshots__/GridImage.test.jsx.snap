@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GridImage /> should render 1`] = `
+<div>
+  <div
+    class="sc-gswNZR bzkTFK"
+  >
+    <div
+      class="sc-dkrFOg AkWbM"
+    >
+      <div
+        class="sc-jSUZER iBJmju"
+      >
+        <div>
+          <h2
+            class="sc-bcXHqe icqeWr"
+          >
+            My Grid Image
+          </h2>
+        </div>
+        <p
+          class="sc-eDvSVe gGWFcm"
+        >
+          Description
+        </p>
+        <div
+          class="sc-gKPRtg keBiKO"
+        >
+          <div
+            class="sc-iBYQkv fyqPic"
+          >
+            <img
+              alt="alt text 1"
+              class="sc-ftTHYK kHftfy"
+              src="https://source.unsplash.com/random/800x800?r=1"
+            />
+          </div>
+          <div
+            class="sc-iBYQkv fyqPic"
+          >
+            <img
+              alt="alt text 2"
+              class="sc-ftTHYK kHftfy"
+              src="https://source.unsplash.com/random/800x800?r=2"
+            />
+          </div>
+          <div
+            class="sc-iBYQkv fyqPic"
+          >
+            <img
+              alt="alt text 3"
+              class="sc-ftTHYK kHftfy"
+              src="https://source.unsplash.com/random/800x800?r=3"
+            />
+          </div>
+          <div
+            class="sc-iBYQkv fyqPic"
+          >
+            <img
+              alt="alt text 4"
+              class="sc-ftTHYK kHftfy"
+              src="https://source.unsplash.com/random/800x800?r=4"
+            />
+          </div>
+          <div
+            class="sc-iBYQkv fyqPic"
+          >
+            <img
+              alt="alt text 5"
+              class="sc-ftTHYK kHftfy"
+              src="https://source.unsplash.com/random/800x800?r=5"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
